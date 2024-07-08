@@ -1,5 +1,7 @@
 package sorting;
 
+import utils.PrintArray;
+
 public class QuickSort {
     public static void quickSort(int[] ara, int l, int h){
         if(l<h) {

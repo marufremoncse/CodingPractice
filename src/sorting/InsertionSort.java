@@ -1,5 +1,7 @@
 package sorting;
 
+import utils.PrintArray;
+
 public class InsertionSort {
     public static void insertionSort(int[] ara){
         int n = ara.length;
